@@ -1,0 +1,19 @@
+#
+
+newmtl MG_body
+map_Ka  MG_body.png
+map_Kd MG_body.png
+
+newmtl Tank_Body
+map_Ka  Tank_Body_Nocolor.PNG
+map_Kd Tank_Body_Nocolor.PNG
+
+newmtl Tank_Body_Destroyed
+map_Ka  Tank_Body_Destroyed.PNG
+map_Kd Tank_Body_Destroyed.PNG
+
+
+newmtl  Track
+map_Ka  Track.PNG
+map_Kd  Track.PNG
+

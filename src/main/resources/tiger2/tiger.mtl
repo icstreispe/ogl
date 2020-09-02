@@ -1,0 +1,24 @@
+#
+
+newmtl Turret
+map_Ka  Turret.tga
+map_Kd Turret.tga
+
+newmtl Turret_2
+map_Ka  Turret_2.tga
+map_Kd Turret_2.tga
+
+
+newmtl Body_1
+map_Ka  Body_1.tga
+map_Kd Body_1.tga
+
+
+newmtl Body_2
+map_Ka  Body_2.tga
+map_Kd Body_2.tga
+
+newmtl Track
+map_Ka  Track.tga
+map_Kd Track.tga
+
