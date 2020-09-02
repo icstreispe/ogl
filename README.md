@@ -1,3 +1,4 @@
 # ogl
 
-deocamdata nu merge cu pom, va trebui ajustat
+buildul merge cu pom
+TODO de verificat la runtime toate exemplele 
